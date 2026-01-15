@@ -19,3 +19,33 @@
     > encapsulation
     > getter and setter
     > static method
+
+6. Inheritance
+
+Inheritance code example
+
+Why inheritance is needed?
+(Code reusability, parent has no access to child class)
+
+What gets inherited?
+(Constructor, non-private attributes, non-private methods)
+
+Constructor overloading & method overloading
+
+super keyword
+(Can be used only inside class, cannot access variables/attributes, used only inside child class)
+
+Why this and super keywords are different?
+
+Types of inheritance:
+
+Single inheritance
+
+Multilevel inheritance
+
+Hierarchical inheritance
+
+Multiple inheritance (Diamond problem)
+
+Hybrid inheritance
+
